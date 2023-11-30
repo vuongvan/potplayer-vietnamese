@@ -1,0 +1,209 @@
+﻿	<StringTable Name='$MAIN_TAB_PROGRAM' String='Danh sách chương trình' />
+	<StringTable Name='$MAIN_TAB_CHAT' String='Chat' />
+	<StringTable Name='$MAIN_TAB_BROWSER' String='Trình duyệt' />
+	<StringTable Name='$MAIN_TAB_PLAYLIST' String='Danh sách phát' />
+	<StringTable Name='$MAIN_POPUP_CAST' String='Công cụ phân phối' />
+	<StringTable Name='$MAIN_POPUP_MODE' String='Panel' />
+	<StringTable Name='$MAIN_USE_EXPLORER' String='Bật/Tắt đa trình duyệt' />
+		
+	<StringTable Name='$ALWAYS_ON_TOP_CYCLE' String='Top (hiện chưa được sửa)' />
+	<StringTable Name='$ALWAYS_ON_TOP' String='Luôn trên cùng' />
+	<StringTable Name='$ALWAYS_ON_TOP_PLAY' String='Luôn trên cùng khi đang phát' />
+	<StringTable Name='$ALWAYS_ON_TOP_FULL' String='Luôn trên cùng khi toàn màn hình' />
+		
+	<StringTable Name='$Control_BOX_TITLE' String='Bảng công cụ' />
+	<StringTable Name='$PLAYLIST_TITLE' String='Danh sách phát' />
+	<StringTable Name='$PLAYLIST_DEL' String='－－' />
+	<StringTable Name='$PLAYLIST_ADD' String='＋＋' />
+	<Tên bảng='$PLAYLIST_SORT' Chuỗi='▽△' />
+		
+	<StringTable Name='$CHAT_ONLY_VIEW_MESSAGE' String='Chỉ nhận xét' />
+	<StringTable Name='$CHAT_ALRAM' String='Cảnh báo' />
+	<StringTable Name='$CHAT_WHISPER' String='Tinh nhắn' />
+	<StringTable Name='$CHAT_EMOTICON' String='Emoji' />
+	<StringTable Name='$CHAT_SAVE' String='Lưu' />
+	<StringTable Name='$CHAT_DELETE' String='Hủy' />
+	<StringTable Name='$CMD_CHAT_USER_OPEN' String='Mở danh sách người tham gia chat' />
+	<StringTable Name='$CMD_CHAT_USER_CLOSE' String='Đóng danh sách người tham gia chat' />
+	<StringTable Name='$CMD_CHAT_SEND_ALERT' String='Thông báo' />
+	<StringTable Name='$CMD_CHAT_REG_NOTIFY' String='Đăng ký' />
+	<StringTable Name='$CMD_CHAT_DEL_NOTIFY' String='Xóa' />
+		
+	<StringTable Name='$CMD_CHAT_FONT_SIZE' String='Kích thước font(%)' />
+	<StringTable Name='$CMD_CHAT_VIEW_FONT_TITLE' String='Font' />
+	<StringTable Name='$CMD_CHAT_VIEW_OPTION_TITLE' String='Xem trước' />
+	<StringTable Name='$CMD_CHAT_FONT_TITLE' String='Font' />
+	<StringTable Name='$CMD_CHAT_NICKNAME_TITLE' String='Biệt danh' />
+	<StringTable Name='$CMD_CHAT_NICKNAME_CHANGE' String='Thay đổi' />
+	<StringTable Name='$CMD_CHAT_TOOLTIP_OPTION' String='Cài đặt trò chuyện' />
+	<StringTable Name='$CMD_CHAT_TOOLTIP_CAST_OPTION' String='Cài đặt trò chuyện trực tuyến' />
+	<StringTable Name='$CMD_CHAT_SUPPORT_LIST' String='Danh sách nhà tài trợ' />
+	<StringTable Name='$CMD_CHAT_STOP' String='Dừng' />
+	<StringTable Name='$CMD_CHAT_LOGIN' String='Đăng nhập' />
+	<StringTable Name='$CMD_CHAT_INPUT' String='Nhập...' />
+	<StringTable Name='$CMD_CHAT_NAMECHECK' String='Xác thực tên thật' />
+	<StringTable Name='$CMD_CHAT_STYLE' String='Style' />
+	<StringTable Name='$CMD_CHAT_DARK' String='Black' />
+
+	<StringTable Name='$SCREEN_CAP1_TITLE' String='Khu vực 1' />
+	<StringTable Name='$SCREEN_CAP2_TITLE' String='Khu vực 2' />
+		
+	<StringTable Name='$CAST_TOOL_DEVICE' String='Thiết bị đầu vào' />
+	<StringTable Name='$CAST_TOOL_INFO' String='Thông tin' />
+	<StringTable Name='$CAST_TOOL_EFFECT' String='Hiệu ứng' />
+	<StringTable Name='$CAST_TOOL_SAVE' String='Lưu' />
+		
+	<StringTable Name='$CAST_NUM_TOTAL' String='Tất cả' />
+	<StringTable Name='$CAST_SHARE' String='Chia sẻ' />
+	<StringTable Name='$CAST_REPORT' String='Báo cáo' />
+	<StringTable Name='$CAST_START_ALERT' String='Bắt đầu truyền' />
+	<StringTable Name='$CAST_ETC' String='Chia sẻ/Báo cáo' />
+	<StringTable Name='$CAST_CHANGE_BITRATE' String='Lựa chọn chất lượng hình ảnh' />
+	<StringTable Name='$CAST_RECOMMAND' String='Gợi ý' />
+	<StringTable Name='$CAST_SEND_CASH' String='Gửi ủng hộ' />
+	<StringTable Name='$CAST_PLUS_FRIEND' String='Thêm làm bạn bè' />
+	<StringTable Name='$CAST_FAVORITE' String='Thêm vào mục ưa thích' />
+	<StringTable Name='$ID_BROADCAST_BLACK_LIST_MAG' String='Quản lý danh sách đen' />
+		
+	<StringTable Name='$ID_EPG_EXPLORER' String='EPG Browser' />
+	<StringTable Name='$ID_CLOSED_CAPTION' String='Bật/Tắt phụ đề' />
+	<StringTable Name='$CMD_POPUPMENU_STREAM_SELECT' String='Chọn luồng' />
+	<StringTable Name='$CMD_POPUPMENU_DVD' String='DVD Menu' />
+	<StringTable Name='$CMD_POPUPMENU_VIDEO_3D' String='Menu 3D' />
+	<StringTable Name='$CMD_POPUPMENU_VIDEO_360VR' String='360°Menu' />
+		
+	<StringTable Name='Khóa bật/tắt thao tác chạm' />
+		
+	<StringTable Name='$CMD_WDM_CHANNEL_MESSAGE' String='Ch' />
+		
+	<StringTable Name='$CONTROL_AUDIO' String='Âm thanh' />
+	<StringTable Name='$CONTROL_VIDEO' String='Hình ảnh' />
+	<StringTable Name='$CONTROL_SUBTITLE' String='Phụ đề' />
+	<StringTable Name='$CONTROL_PLAYBACK' String='Phát' />
+	<StringTable Name='$CONTROL_EQUALIZER' String='Equalizer' />
+	<StringTable Name='$CONTROL_PRESET' String='Preset' />
+	<StringTable Name='$CONTROL_VOLUME' String='Â.lượng' />
+	<StringTable Name='$CONTROL_BRIGHTNESS' String='Độ sáng' />
+	<StringTable Name='$CONTROL_BRIGHTNESS1' String='Độ sáng (%s%%)' />
+	<StringTable Name='$CONTROL_CONTRAST' String='Tương phản' />
+	<StringTable Name='$CONTROL_CONTRAST1' String='Độ tương phản (%s%%)' />
+	<StringTable Name='$CONTROL_SATURATION' String='Độ bão hòa' />
+	<StringTable Name='$CONTROL_SATURATION1' String='Độ bão hòa (%s%%)' />
+	<StringTable Name='$CONTROL_COLOR' String='Huế' />
+	<StringTable Name='$CONTROL_COLOR1' String='Huế (%s%%)' />
+	<StringTable Name='$CONTROL_SOFTEN' String='Làm mượt' />
+	<StringTable Name='$CONTROL_SHARPEN' String='Sắc nét' />
+	<StringTable Name='$CONTROL_DEBLOCK' String='Khử khối' />
+	<StringTable Name='$CONTROL_CAPTURE' String='Quay video' />
+	<StringTable Name='$CONTROL_VIDEO_DEFAULT' String='Mặc định' />
+	<StringTable Name='$CONTROL_FONT' String='Font' />
+	<StringTable Name='$CONTROL_POSITION' String='Vị trí' />
+	<StringTable Name='$CONTROL_POSITION1' String='Vị trí (%s%%)' />
+	<StringTable Name='$CONTROL_UP' String='▲Lên' />
+	<StringTable Name='$CONTROL_UP1' String='▲ Lên' />
+	<StringTable Name='$CONTROL_DOWN' String='▼Xuống' />
+	<StringTable Name='$CONTROL_DOWN1' String='▼ Xuống' />
+	<StringTable Name='$CONTROL_LEFT' String='◀Trái' />
+	<StringTable Name='$CONTROL_RIGHT' String='▶Phải' />
+	<StringTable Name='$CONTROL_SUBTITLE_DEFAULT' String='Mặc định' />
+	<StringTable Name='$CONTROL_SUBTITLE_SYNC' String='Đồng bộ' />
+	<StringTable Name='$CONTROL_SUBTITLE_SYNC1' String='Đồng bộ (%s giây)' />
+	<StringTable Name='$CONTROL_SUBTITLE_SLOWER' String='Chậm hơn' />
+	<StringTable Name='$CONTROL_SUBTITLE_FASTER' String='Nhanh hơn' />
+	<StringTable Name='$CONTROL_PLAYBACK_SPEED' String='Tốc độ' />
+	<StringTable Name='$CONTROL_PLAYBACK_SPEED1' String='Tốc độ ​​(%s×)' />
+	<StringTable Name='$CONTROL_PLAYBACK_DEFAULT' String='Mặc định' />
+	<StringTable Name='$CONTROL_PLAYBACK_SLOWER' String='Chậm hơn' />
+	<StringTable Name='$CONTROL_PLAYBACK_FASTER' String='Nhanh hơn' />
+	<StringTable Name='$CONTROL_PLAYBACK_SYNC' String='Đồng bộ (%s giây)' />
+	<StringTable Name='$CONTROL_SEEK' String='Vị trí' />
+	<StringTable Name='$CONTROL_SEEK_5' String='Khoảng thời gian di chuyển vuốt tiêu chuẩn' />
+	<StringTable Name='$CONTROL_SEEK_30' String='Khoảng thời gian di chuyển vuốt bằng hai ngón tay' />
+	<StringTable Name='$CONTROL_SEEK_60' String='Khoảng thời gian di chuyển vuốt bằng 3 ngón tay' />
+	<StringTable Name='$CONTROL_AB' String='Lặp AB' />
+	<StringTable Name='$CONTROL_A' String='A' />
+	<StringTable Name='$CONTROL_B' String='B' />
+	<StringTable Name='$CONTROL_STOP' String='Hủy' />
+	<StringTable Name='$CONTROL_DEFAULT' String='■ Mặc định' />◀
+	<StringTable Name='$CONTROL_DEC' String='◀ Nhỏ' />
+	<StringTable Name='$CONTROL_INC' String='Thanks Larger' />
+	<StringTable Name='$CONTROL_CAPTION_SIZE' String='Kích thước (%s)' />
+	<StringTable Name='$CONTROL_CAPTION_SEL' String='Chọn phụ đề' />
+	<StringTable Name='$CONTROL_VIDEO_SEL' String='Chọn video' />
+	<StringTable Name='$CONTROL_VIDEO_COLOR' String='Tông màu' />
+	<StringTable Name='$CONTROL_VIDEO_RATIO' String='Tỷ lệ khung hình' />
+	<StringTable Name='$CONTROL_AUDIO_SEL' String='Chọn âm thanh' />
+	<StringTable Name='$CONTROL_AUDIO_MASTER_VOLUME' String='Âm lượng chính (%s%%)' />
+	<StringTable Name='$CONTROL_AUDIO_WAVE_VOLUME' String='Âm lượng bộ trộn (%s%%)' />
+
+	<StringTable Name='$MENU_FILE' String='Tệp' />
+	<StringTable Name='$MENU_VIEW' String='Xem' />
+	<StringTable Name='$MENU_PLAY' String='Phát' />
+	<StringTable Name='$MENU_SUB' String='Phụ đề' />
+	<StringTable Name='$MENU_VIDEO' String='Hình ảnh' />
+	<StringTable Name='$MENU_AUDIO' String='Âm thanh' />
+	<StringTable Name='$MENU_HELP' String='Giúp đỡ' />
+		
+	<StringTable Name='$CMD_MEDIA_PLAY' String='Play' />
+	<StringTable Name='$CMD_MEDIA_PAUSE' String='Pause' />
+	<StringTable Name='$CMD_MEDIA_CLOSE' String='Stop' />
+	<StringTable Name='$ID_PLAYBACK_5SEC_BACK_PREV' String='Lùi 5 giây (nhấp chuột phải: phát tệp trước đó)' />
+	<StringTable Name='$ID_PLAYBACK_5SEC_FORW_NEXT' String='Tới 5 giây (nhấp chuột phải: phát tệp tiếp theo)'/>
+	<StringTable Name='$ID_PLAYBACK_5SEC_BACK' String='Lùi 5 giây' />
+	<StringTable Name='$ID_PLAYBACK_5SEC_FORW' String='Tới 5 giây' />
+	<StringTable Name='$ID_OPEN_FILE' String='Mở tệp' />
+	<StringTable Name='$ID_AUDIO_MUTE' String='Đóng/Mở âm thanh' />
+	<StringTable Name='$CMD_LOAD_SKIN_XML_DEF' String='Giao diện âm thanh: sang chế độ tiêu chuẩn' />
+	<StringTable Name='$CMD_LOAD_SKIN_XML_MIN' String='Giao diện âm thanh: Chuyển sang chế độ thu nhỏ' />
+	<StringTable Name='$ID_APP_EXIT' String='Thoát' />
+	<StringTable Name='$CMD_ATTACH_WINDOW_OPEN' String='Mở bảng đính kèm' />
+	<StringTable Name='$CMD_ATTACH_WINDOW_CLOSE' String='Đóng bảng đính kèm' />
+	<StringTable Name='$CMD_DETACH_CAST' String='Tách danh sách chương trình' />
+	<StringTable Name='$CMD_DETACH_CHAT' String='Tách nhiều trình duyệt' />
+	<StringTable Name='$CMD_DETACH_PLAYLIST' String='Tách danh sách phát' />
+	<StringTable Name='$CMD_MAIN_MENU' String='Mở menu chính' />
+	<StringTable Name='$CMD_POPUP_WINDOW_CAST' String='Bảng liên quan đến phân phối' />
+	<StringTable Name='$CMD_BROADCAST_MENU' String='Menu phát trực tuyến' />
+	<StringTable Name='$CMD_VIEWER_NUM_MESSAGE' String='Số người xem' />
+	<StringTable Name='$CMD_GOOD_NUM_MESSAGE' String='Được đề xuất' />
+	<StringTable Name='$CMD_BAD_NUM_MESSAGE' String='Báo cáo' />
+	<StringTable Name='$ID_PLAYLIST_WINDOW' String='Đóng/Mở danh sách phát' />
+	<StringTable Name='$ID_CONTROL_BOX_WINDOW' String='Đóng/Mở bảng điều khiển' />
+	<StringTable Name='$ID_PLAY_REPEAT_START_SET' String='Vị trí bắt đầu A' />
+	<StringTable Name='$ID_PLAY_REPEAT_RESET' String='Hủy lặp lại' />
+	<StringTable Name='$ID_PLAY_REPEAT_STOP_SET' String='Vị trí kết thúc B' />
+	<StringTable Name='$ID_PLAYBACK_REPEAT' String='Phát lặp lại' />
+	<StringTable Name='$ID_PLAYBACK_SHUFFLE' String='Phát ngẫu nhiên' />
+	<StringTable Name='$ID_BROADCAST_TOOL_WINDOW' String='Đóng/Mở công cụ phát sóng' />
+	<StringTable Name='$ID_BROADCAST_LIST_WINDOW' String='Đóng/Mở danh sách chương trình' />
+	<StringTable Name='$ID_CHAT_WINDOW' String='Đóng/Mở nhiều trình duyệt' />
+	<StringTable Name='$CMD_MIN_WINDOW' String='Thu nhỏ xuống thanh taskbar' />
+	<StringTable Name='$CMD_MAX_WINDOW' String='Cực đại hóa' />
+	<StringTable Name='$CMD_RESTORE_WINDOW' String='Khôi phục cửa sổ bình thường' />
+	<StringTable Name='$CMD_FULL_WINDOW' String='Toàn màn hình' />
+	<StringTable Name='$ID_WDM_CH_SEL_MENU' String='Quản lý kênh' />
+	<StringTable Name='$ID_WDM_FORCE_PREV_CH' String='Kênh trước (nhấp chuột phải: chế độ bắt buộc)' />
+	<StringTable Name='$ID_WDM_FORCE_NEXT_CH' String='Kênh tiếp theo (nhấp chuột phải: chế độ bắt buộc)' />
+	<StringTable Name='$CMD_CLOSE_WINDOW' String='Đóng' />
+	<StringTable Name='$CMD_ATTACH_MAIN' String='Đính kèm vào cửa sổ chính' />
+	<StringTable Name='$CMD_CHAT_FONT_SELECT' String='Font' />
+	<StringTable Name='$CMD_CHAT_EMOTICON' String='Emoji' />
+	<StringTable Name='$CMD_CHAT_ASSIGN_NOTIFY' String='Đăng ký nhận thông báo' />
+	<StringTable Name='$CMD_CHAT_DELETE_NOTIFY' String='Xóa thông báo' />
+	<StringTable Name='$CMD_PLAYLIST_TOP' String='Về đầu trang' />
+	<StringTable Name='$CMD_PLAYLIST_UP' String='Di chuyển lên' />
+	<StringTable Name='$CMD_PLAYLIST_DOWN' String='Di chuyển xuống' />
+	<StringTable Name='$CMD_PLAYLIST_BOTTOM' String='Đi xuống cuối' />
+	<StringTable Name='$CMD_CAPTURE1ST_SELECT' String='Chọn khu vực 1' />
+	<StringTable Name='$CMD_CAPTURE2ND_SELECT' String='Chọn khu vực 2' />
+	<StringTable Name='$CMD_CAPTURE1ST_SHOW' String='Hiển thị khu vực 1' />
+	<StringTable Name='$CMD_CAPTURE2ND_SHOW' String='Hiển thị khu vực 2' />
+	<StringTable Name='$CMD_CAPTURE1ST_HIDE' String='Ẩn vùng 1' />
+	<StringTable Name='$CMD_CAPTURE2ND_HIDE' String='Ẩn vùng 2' />
+	<StringTable Name='$CMD_CAPTURE1ST_PRIMARY' String='Khu vực 1 là chính' />
+	<StringTable Name='$CMD_CAPTURE2ND_PRIMARY' String='Khu vực 2 là chính' />
+	<StringTable Name='$CMD_CAPTURE_PIP_SETTING' String='Cài đặt PIP' />
+	<StringTable Name='$CMD_CAPTURE_FINDWND' String='Chỉ định cửa sổ cần chụp' />
+	<StringTable Name='$CMD_CAPTURE_OPTIMIZE_SIZE' String='Tối ưu hóa/Khôi phục kích thước' />
+	<StringTable Name='$CMD_CAPTURE_FULLSCREEN' String='Chụp ở chế độ toàn màn hình' />
+	<StringTable Name='$CMD_CAPTURE_NORMALSCREEN' String='Hủy chụp toàn màn hình' />
